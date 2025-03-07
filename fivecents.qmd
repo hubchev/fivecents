@@ -39,7 +39,8 @@ csl: "https://www.zotero.org/styles/apa"
 format:
   apaquarto-pdf:
     documentmode: stu
-  apaquarto-html: default
+  apaquarto-html: 
+    embed-resources: true
   # html:
   #   toc: true
   #   toc-title: "Table of Contents"
