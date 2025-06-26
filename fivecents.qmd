@@ -93,9 +93,9 @@ You can fail with your thesis. Unfortunately, that happens. Even if there is a s
 When writing, even academically, remember that humans are your audience. 
 Tell a story. Help, guide, and motivate. Every sentence and paragraph should contain a message to the reader. Make sure readers understand what you are trying to say. While you can't rule out the possibility of being misunderstood with words, you should minimize the risk. For example, if you can say it in simple words, do so. If it requires specific vocabularies, make sure that there is an intersubjective meaning. When in doubt, define the terms you use.  Tell the reader what and where you will be discussing something and why it is important. Don't presume the reader knows the significance of details you explain on page 8 for understanding insights discussed later. Guidance and motivation is key. Provide reasons for your work and your discussions. Use common sense and familiarize yourself with the conventions of your field of research. Above all, this will help you write in a way that people are likely to understand the way you want them to. 
 
-# A Bachelor/Master Thesis Is Not a Dissertation
+# A Thesis Is Not a Dissertation
 
-The difference between a bachelor/master thesis and a Dissertation (a.k.a. doctoral thesis) is that the latter must make a contribution to the state of knowledge of mankind. In a dissertation, you should find a research gap and narrow this gap. In a bachelor/master thesis, you demonstrate your ability to work systematically on a topic while adhering to academic standards and conventions. Such a thesis showcases your understanding of existing knowledge and research methods without necessarily introducing new insights or addressing a research gap.
+The difference between a bachelor/master thesis and a dissertation (a.k.a. doctoral thesis) is that the latter must make a contribution to the state of knowledge of mankind. In a dissertation, you should find a research gap and narrow this gap. In a bachelor/master thesis, you demonstrate your ability to work systematically on a topic while adhering to academic standards and conventions. Such a thesis showcases your understanding of existing knowledge and research methods without necessarily introducing new insights or addressing a research gap.
 
 To further understand this distinction, consider @Pollock2013Being[p. 629] assertion that scholars have two jobs: "Answering interesting questions and telling the story." Not every answer to an interesting or novel question constitutes a scientific contribution. In a bachelor/master thesis, your goal is to answer an interesting question, but your answer does not need to fill a research gap.
 
@@ -222,9 +222,14 @@ Wikipedia is "not a reliable source for academic writing or research"  [@Wikiped
 
 ::: {.callout-note icon="false" appearance="default" title="Exercise"}
 
-Familiarize yourself with the
-[International Research Journal of Engineering and Technology (IRJET)](https://www.irjet.net/). What do you think? Do you think it is difficult to publish in this journal? Do you think it is a journal with a good reputation? What do you think about the peer review process? Ask your supervisor what they think about the journal. Reflect on these aspects to form an educated opinion about IRJET.
+Explore these publishers and journals:: 
 
+- [International Research Journal of Engineering and Technology (IRJET)](https://www.irjet.net/),
+- [British Journal of Multidisciplinary and Advanced Studies](https://bjmas.org/index.php/bjmas),
+- [American Economic Association Journals](https://www.aeaweb.org/journals), and
+- [The Stata Journal](https://www.stata-journal.com/). 
+
+Visit [thinkchecksubmit.org](https://thinkchecksubmit.org/) to understand journal evaluation criteria. Assess the likelihood of a paper of questionable quality being published in these journals. Determine which journals are worth considering for academic work, and evaluate the reputation of their publishers. Reflect on how these factors impact your view of the journals’ credibility.
 
 :::
 
