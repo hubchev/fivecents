@@ -221,8 +221,7 @@ However, note that there is no rule without an exception. It can sometimes be ap
 
 
 Despite my recommendations above, no medium should be categorically rejected in science; it depends on how it is used and interpreted. For example, even Wikipedia can be cited in an academically written document. Even if it is "not a reliable source for academic writing or research"  [@Wikipedia2025WikipediaAcademic].Wait a minute. Did I just cite Wikipedia to make this statement? Yes, I did, and paradoxically, that proves my point. Here are the reasons why it is okay to cite Wikipedia here: First, I cited a "Wikipedia essay," an opinion piece by Wikipedia editors, which is not a standard entry [see @Wikipedia2025WikipediaEssays]. Second, I use the permanent URL, allowing verification of the quote. Third, the editors' discussion of Wikipedia's unreliability on the site itself is noteworthy and can be considered a primary expression of opinion. 
-In my opinion, a warning from Wikipedia editors is more meaningful and convincing than any other source. Overall, I consider this Wikipedia citation to be appropriate in this context.
-
+A warning from Wikipedia editors themselves is more meaningful and convincing than any other source. At least, from my point of view.
 
 
 
